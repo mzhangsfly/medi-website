@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/medi-website/static/css/main.e9e1e337.css",
+    "main.js": "/medi-website/static/js/main.92c228e0.js",
+    "static/media/computer-vision.png": "/medi-website/static/media/computer-vision.796d42e154846faa0eb3.png",
+    "static/media/leaf.gif": "/medi-website/static/media/leaf.60d9172d54c378f00814.gif",
+    "static/media/claire.png": "/medi-website/static/media/claire.02811189e0262866cb04.png",
+    "static/media/decentralized.png": "/medi-website/static/media/decentralized.642d750149bbebd090e8.png",
+    "static/media/alex.png": "/medi-website/static/media/alex.d0dd7f55b855854bd153.png",
+    "static/media/kaitlyn.png": "/medi-website/static/media/kaitlyn.e078ffa053b102e048d4.png",
+    "static/media/support.png": "/medi-website/static/media/support.70af51699f0ef8af5822.png",
+    "static/media/cta-illustration.svg": "/medi-website/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
+    "index.html": "/medi-website/index.html",
+    "static/media/feature-tile-icon-06.svg": "/medi-website/static/media/feature-tile-icon-06.74b0477e38710535bd0e2526d669b6f8.svg",
+    "static/media/feature-tile-icon-05.svg": "/medi-website/static/media/feature-tile-icon-05.af2bae113bcfafa4eceac9401c7f3a5a.svg",
+    "static/media/feature-tile-icon-04.svg": "/medi-website/static/media/feature-tile-icon-04.1acd4dacd4ddf306c2e7f5da116b6137.svg",
+    "static/media/feature-tile-icon-03.svg": "/medi-website/static/media/feature-tile-icon-03.69e94e20efba0832770920ab1d93d073.svg",
+    "static/media/feature-tile-icon-01.svg": "/medi-website/static/media/feature-tile-icon-01.e13cef8e30c0472fc8b303cc0801113f.svg",
+    "static/media/feature-tile-icon-02.svg": "/medi-website/static/media/feature-tile-icon-02.469356592c7ce3b1abf53cca85e82fee.svg",
+    "main.e9e1e337.css.map": "/medi-website/static/css/main.e9e1e337.css.map",
+    "main.92c228e0.js.map": "/medi-website/static/js/main.92c228e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9e1e337.css",
+    "static/js/main.92c228e0.js"
+  ]
+}
